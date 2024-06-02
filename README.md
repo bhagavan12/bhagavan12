@@ -101,33 +101,33 @@
 
 <!-- Featured Projects -->
 ## 🔥 Featured Projects
-1. **Online Prompt Selling Application**
+1. **Cloud Voting System**
    - **Description:** This platform functions as a multi-vendor online marketplace for prompt sales, enabling users to purchase or sell prompts. Administrators oversee all prompt listings and vendor permissions, ensuring smooth transactions and maintaining quality standards.
    - **Tech Stack:** Next Js,Tailwind CSS,Clerk Authentication,MongoDB.
-   - **Deployment:** Deployed on vercel platform.
-   - **Repository:** [Prompt Sellling Market Place (Saenius)Repository](https://github.com/saekumar/ai-prompt)
-   - **Deployed Link:** [Saenius Deployed Link](https://saenius.vercel.app)
+   - **Deployment:** Deployed using aws S3 service.
+   - **Repository:** [Cloud Voting App Repository](https://github.com/bhagavan12/cloudvotingapp
    
-2. **Online Live Streaming Platform**
-   - **Description:** This application facilitates live streaming where users can broadcast their content, and others can join as guests or viewers in real-time, akin to the functionality of the Twitch platform. It offers an interactive experience for creators and audiences alike, fostering community engagement through live interactions and shared content.
-   - **Tech Stack:** Next Js, Tailwind CSS, MongoDB, Clerk Authentication.
-   - **Deployment:** Deployed on Vercel platform.
-   - **Repository:** [Online Streaming Platform(StreamVista) Repository](https://github.com/saekumar/online-streaming-platform)
-   - **Deployed Link:** [StreamVista Deployed Link]()
+2. **DealsBlendr - E-commerce Price Comparison System**
+   - **Description:** T it is an e-commerce price comparison system developed using Spring Boot ,React.js and MySQL .DealsBlendr dynamically fetches electronic product data and prices from multiple e-commerce sites via APIs
 
-3. **Online E-learning**
-   - **Description:** Discover an immersive e-learning platform designed to enrich your educational journey. Our frontend project offers a dynamic interface where you can seamlessly explore an extensive array of courses, delve into insightful blogs, and interact with a vibrant community of learners. Dive into a world of knowledge at your fingertips, where learning knows no bounds..
-   - **Tech Stack:** Next Js, Tailwind CSS, .
+   - **Tech Stack:** Spring Boot ,React.js and MongoDB.
+   - **Deployment:** Deployed on Netlify and Render platform.
+   - **Repository:** [DealsBlendr Repository](https://github.com/bhagavan12/mongo_clone)
+   - **Deployed Link:** [DealsBlendr Deployed Link](https://dealsblendr.netlify.app/)
+
+3. **DishDiscovery**
+   - **Description:** DishDiscovery is a React.js web application designed to guide users through an immersive culinary journey. Whether you're a seasoned chef or a novice in the kitchen, DishDiscovery offers a diverse collection of recipes, cooking tutorials, and culinary insights to elevate your cooking experience.
+   - **Tech Stack:**React JS,CSS3.
    - **Deployment:** Deployed on Vercelplatform.
-   - **Repository:** [E-Learning Repository](https://github.com/saekumar/E-Learning-Next-Js)
-   - **Deployed Link:** [E-Learning  Deployed Link](https://e-learning-next-js.vercel.app/)
+   - **Repository:** [DishDiscovery Repository](https://github.com/bhagavan12/DishDiscovery)
+  
 
 4. **Personal Portfolio**
    - **Description:** Personal Portfolio showcasing projects and skills.
-   - **Tech Stack:** React JS, Tailwind CSS, JavaScript.
-   - **Deployment:** Deployed on vercel .
-   - **Repository:** [Personal Portfolio Repository](https://github.com/saekumar/Portfolio)
-   - **Deployed Link:** [Personal Portfolio Deployed Link](https://saikumar-portfolio.vercel.app)rue&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+   - **Tech Stack:** ReactJS,CSS3,JavaScript.
+   - **Deployment:** Deployed on Netlify .
+   - **Repository:** [Personal Portfolio Repository](https://github.com/bhagavan12/portfolio)
+   - **Deployed Link:** [Personal Portfolio Deployed Link](https://saibhagavan.netlify.app/)true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br>
 
@@ -136,9 +136,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
+![BHagvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagavan12&show_icons=true&theme=radical)
 
 </div>
 
@@ -146,15 +144,4 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Activity:</h3>
-
-![Sai Bhagavan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-
-
-
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Bhagavan</a></p>
