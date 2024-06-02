@@ -1,5 +1,5 @@
 ![logo](supun-new.png)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
 
 <h1 align="center">Hi 👋, I'm Sai Bhagavan</h1>
 <h3 align="center">A passionate Programmer,Web developer</h3>
@@ -63,7 +63,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,express,mongoose" />
   </a>
 </p>
 
@@ -105,7 +105,7 @@
    - **Description:** This platform functions as a multi-vendor online marketplace for prompt sales, enabling users to purchase or sell prompts. Administrators oversee all prompt listings and vendor permissions, ensuring smooth transactions and maintaining quality standards.
    - **Tech Stack:** Next Js,Tailwind CSS,Clerk Authentication,MongoDB.
    - **Deployment:** Deployed using aws S3 service.
-   - **Repository:** [Cloud Voting App Repository](https://github.com/bhagavan12/cloudvotingapp
+   - **Repository:** [Cloud Voting App Repository](https://github.com/bhagavan12/cloudvotingapp)
    
 2. **DealsBlendr - E-commerce Price Comparison System**
    - **Description:** T it is an e-commerce price comparison system developed using Spring Boot ,React.js and MySQL .DealsBlendr dynamically fetches electronic product data and prices from multiple e-commerce sites via APIs
@@ -127,7 +127,7 @@
    - **Tech Stack:** ReactJS,CSS3,JavaScript.
    - **Deployment:** Deployed on Netlify .
    - **Repository:** [Personal Portfolio Repository](https://github.com/bhagavan12/portfolio)
-   - **Deployed Link:** [Personal Portfolio Deployed Link](https://saibhagavan.netlify.app/)true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+   - **Deployed Link:** [Personal Portfolio Deployed Link](https://saibhagavan.netlify.app/)
  </div>
  <br><br>
 
