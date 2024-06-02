@@ -1,4 +1,4 @@
-![logo](supun-new.png)
+![logo](Orange Minimalist Corporate Personal Profile LinkedIn Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Sai Bhagavan</h1>
