@@ -1,4 +1,4 @@
-![logo](logo.png)
+![image](https://github.com/bhagavan12/bhagavan12/assets/92876606/b64114b4-66b6-4076-b2f1-e41c133aa2d1)![logo](logo.png)
 
 
 <h1 align="center">Hi 👋, I'm Sai Bhagavan</h1>
@@ -102,13 +102,13 @@
 <!-- Featured Projects -->
 ## 🔥 Featured Projects
 1. **Cloud Voting System**
-   - **Description:** This platform functions as a multi-vendor online marketplace for prompt sales, enabling users to purchase or sell prompts. Administrators oversee all prompt listings and vendor permissions, ensuring smooth transactions and maintaining quality standards.
-   - **Tech Stack:** Next Js,Tailwind CSS,Clerk Authentication,MongoDB.
-   - **Deployment:** Deployed using aws S3 service.
+   - **Description:**This project is a cloud-native voting app,  where authorized users can caste their one time voting.
+   - **Tech Stack:** ReactJS,CSS3,AWS.
+   - **Deployment:** Deployed using AWS S3 service.
    - **Repository:** [Cloud Voting App Repository](https://github.com/bhagavan12/cloudvotingapp)
    
 2. **DealsBlendr - E-commerce Price Comparison System**
-   - **Description:** T it is an e-commerce price comparison system developed using Spring Boot ,React.js and MySQL .DealsBlendr dynamically fetches electronic product data and prices from multiple e-commerce sites via APIs
+   - **Description:** It is an e-commerce price comparison system developed using Spring Boot ,React.js and MySQL .DealsBlendr dynamically fetches electronic product data and prices from multiple e-commerce sites via APIs
 
    - **Tech Stack:** Spring Boot ,React.js and MongoDB.
    - **Deployment:** Deployed on Netlify and Render platform.
