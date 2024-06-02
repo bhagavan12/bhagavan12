@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Programmer,Web developer</h3>
 <p align="center">I am a dedicated full-stack developer with expertise in ReactJS, NodeJS, Spring Boot, and Cloud technologies. I have a strong desire to develop good and creative solutions, and I use my deep interest in front-end and back-end technologies to create effective applications. 💻 and leveraging them to build cool stuffs </p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+<!--  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" />  -->
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
@@ -25,25 +25,23 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+<!--   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" /> -->
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🌱 I’m currently learning **Cloud Technologies**
 
-- 🌱 I’m currently learning **Devops**
+- 👨‍💻 All of my projects are available at my portfolio (https://saibhagavan.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 💬 Ask me about **Java,ReactJS and NodeJS**
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 📫 How to reach me **jsbteja123@gmail.com**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
-
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📄 Know about my experiences [Resume](https://saibhagavan.netlify.app/resume)
 
 - ⚡ Fun fact **I think I'm funny**
 
@@ -72,7 +70,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,redux,bootstrap" />
   </a>
 </p>
 
@@ -86,14 +84,14 @@
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=aws,firebase" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux" />
   </a>
 </p>
 
@@ -101,17 +99,35 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Trophy:</h3>
+<!-- Featured Projects -->
+## 🔥 Featured Projects
+1. **Online Prompt Selling Application**
+   - **Description:** This platform functions as a multi-vendor online marketplace for prompt sales, enabling users to purchase or sell prompts. Administrators oversee all prompt listings and vendor permissions, ensuring smooth transactions and maintaining quality standards.
+   - **Tech Stack:** Next Js,Tailwind CSS,Clerk Authentication,MongoDB.
+   - **Deployment:** Deployed on vercel platform.
+   - **Repository:** [Prompt Sellling Market Place (Saenius)Repository](https://github.com/saekumar/ai-prompt)
+   - **Deployed Link:** [Saenius Deployed Link](https://saenius.vercel.app)
+   
+2. **Online Live Streaming Platform**
+   - **Description:** This application facilitates live streaming where users can broadcast their content, and others can join as guests or viewers in real-time, akin to the functionality of the Twitch platform. It offers an interactive experience for creators and audiences alike, fostering community engagement through live interactions and shared content.
+   - **Tech Stack:** Next Js, Tailwind CSS, MongoDB, Clerk Authentication.
+   - **Deployment:** Deployed on Vercel platform.
+   - **Repository:** [Online Streaming Platform(StreamVista) Repository](https://github.com/saekumar/online-streaming-platform)
+   - **Deployed Link:** [StreamVista Deployed Link]()
 
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
+3. **Online E-learning**
+   - **Description:** Discover an immersive e-learning platform designed to enrich your educational journey. Our frontend project offers a dynamic interface where you can seamlessly explore an extensive array of courses, delve into insightful blogs, and interact with a vibrant community of learners. Dive into a world of knowledge at your fingertips, where learning knows no bounds..
+   - **Tech Stack:** Next Js, Tailwind CSS, .
+   - **Deployment:** Deployed on Vercelplatform.
+   - **Repository:** [E-Learning Repository](https://github.com/saekumar/E-Learning-Next-Js)
+   - **Deployed Link:** [E-Learning  Deployed Link](https://e-learning-next-js.vercel.app/)
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+4. **Personal Portfolio**
+   - **Description:** Personal Portfolio showcasing projects and skills.
+   - **Tech Stack:** React JS, Tailwind CSS, JavaScript.
+   - **Deployment:** Deployed on vercel .
+   - **Repository:** [Personal Portfolio Repository](https://github.com/saekumar/Portfolio)
+   - **Deployed Link:** [Personal Portfolio Deployed Link](https://saikumar-portfolio.vercel.app)rue&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br>
 
@@ -132,7 +148,7 @@
 
 <h3 align="left">Activity:</h3>
 
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Sai Bhagavan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
