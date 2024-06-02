@@ -1,87 +1,132 @@
-<!-- Your Name or Project Title -->
-# Hi there, I'm Puppala Veera Venkata Satya Sai Kumar! 👋
-<!-- Brief Description -->
->Enthusiastic Full Stack Developer and driven student, adept at creating seamless and dynamic web applications. Proficient in React.js and Next.js with a passion for crafting user-friendly interfaces and scalable solutions.Skilled in leveraging modern technologies to develop robust front-end and back-end systems. Excels in problem-solving and implementing efficient code practices to deliver high-quality products. Eager to contribute expertise in full stack development to innovative projects and collaborate with dynamic teams.
+# Hi, I'm Zach :wave:
 
-<!-- Skills -->
-## 🛠️ Skills
-| Frontend | Web Frameworks | Databases | Programming Languages | Familiar Tools | IDEs |
-|----------|----------------|-----------|-----------------------|----------------|------|
-| ![HTML](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/b36aee95-b275-4238-8f97-1d5dc9942226) | ![Spring Boot](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/7b886cc8-bcef-454c-ad0c-16412d8e191e) | ![MySQL](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/072f7e60-2ce2-43b1-a269-befc186ee5b6) | ![Java](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/8cb0e319-9679-4462-8335-701874af7289) | ![GitHub](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.svg) | ![Eclipse]([https://img.icons8.com/?size=50&id=w1uD6vtDitjr&format=png](https://img.icons8.com/?size=50&id=64ZDmgB9Ew9X&format=png)) |
-| ![JavaScript](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-64.png) | ![React](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png) | ![MongoDB](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/95920bed-892d-444f-b29b-3a858658e759) | ![Python](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/b91224db-d3ab-4a27-8d86-1a1c247da83a) | ![Postman](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/8cb81023-3c28-44b5-b9c0-5a5ad4e868d8) | ![VS Code](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/36cb29ea-dbad-4b76-8654-2bc7c63c9efc) |
-| ![Tailwind CSS](https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png) | ![Next JS](https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png) | ![Oracle](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/def3e749-c5e5-4465-a1e0-8c085348dde7) | ![C](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/bb6edf12-d57c-4948-838c-11c98f8d4bb7) | ![Git](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/38e2b01b-a5bc-4704-9880-e20e78fa2b91) | ![PyCharm](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/7dd63f9d-480d-4088-9295-f38d767995fc) |
+I'm a technologist working on realistic immersive computer graphics for
+everyone. Always learning. 🤟🏻
 
-## 🏆 Certifications
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" href="https://github.com/cszach/Raydiance">
+          <img alt="Raydiance" src="img/projects/raydiance.png" />
+        </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://cszach.github.io/synthwave-drive">
+          <img alt="Synthwave Drive" src="img/projects/synthwave drive.png" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>CUDA ray tracing</td>
+      <td>3D synthwave aesthetics driving simulator</td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" href="https://github.com/cszach/LastPlayed">
+          <img alt="LastPlayed" src="img/projects/lastplayed.png" />
+        </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://github.com/cszach/Trailblazer">
+          <img alt="Trailblazer" src="img/projects/trailblazer.png" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Last.fm Android music app</td>
+      <td>Interactive map viewer and pathfinder</td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" href="https://cszach.github.io/three.js-sketches">
+          <img alt="Three.js sketches" src="img/projects/threejs.jpg" />
+        </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://cszach.github.io/designs">
+          <img alt="Design portfolio" src="img/projects/web design.jpg" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>WebGL experiments</td>
+      <td>Design portfolio</td>
+    </tr>
+  </tbody>
+</table>
 
-### Red Hat Certified Application Developer
-- **Issuing Organization:** Red Hat
-- **Date of Certification:** August 2023
-  
-### AWS Certified Cloud Practitioner
-- **Issuing Organization:** Amazon Web Services
-- **Date of Certification:** July 2023
+## Skills
 
-### Programming in Java 
-- **Issuing Organization:** NPTEL
-- **Date of Certification:** October 2022
+Programming languages:
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white&style=for-the-badge)
 
+Graphics/GPU:
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge)
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
+![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?logo=webgpu&logoColor=white&style=for-the-badge)
 
+Mobile:
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 
-<!-- Featured Projects -->
-## 🔥 Featured Projects
-1. **Online Prompt Selling Application**
-   - **Description:** This platform functions as a multi-vendor online marketplace for prompt sales, enabling users to purchase or sell prompts. Administrators oversee all prompt listings and vendor permissions, ensuring smooth transactions and maintaining quality standards.
-   - **Tech Stack:** Next Js,Tailwind CSS,Clerk Authentication,MongoDB.
-   - **Deployment:** Deployed on vercel platform.
-   - **Repository:** [Prompt Sellling Market Place (Saenius)Repository](https://github.com/saekumar/ai-prompt)
-   - **Deployed Link:** [Saenius Deployed Link](https://saenius.vercel.app)
-   
-2. **Online Live Streaming Platform**
-   - **Description:** This application facilitates live streaming where users can broadcast their content, and others can join as guests or viewers in real-time, akin to the functionality of the Twitch platform. It offers an interactive experience for creators and audiences alike, fostering community engagement through live interactions and shared content.
-   - **Tech Stack:** Next Js, Tailwind CSS, MongoDB, Clerk Authentication.
-   - **Deployment:** Deployed on Vercel platform.
-   - **Repository:** [Online Streaming Platform(StreamVista) Repository](https://github.com/saekumar/online-streaming-platform)
-   - **Deployed Link:** [StreamVista Deployed Link]()
+Web:
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
-3. **Online E-learning**
-   - **Description:** Discover an immersive e-learning platform designed to enrich your educational journey. Our frontend project offers a dynamic interface where you can seamlessly explore an extensive array of courses, delve into insightful blogs, and interact with a vibrant community of learners. Dive into a world of knowledge at your fingertips, where learning knows no bounds..
-   - **Tech Stack:** Next Js, Tailwind CSS, .
-   - **Deployment:** Deployed on Vercelplatform.
-   - **Repository:** [E-Learning Repository](https://github.com/saekumar/E-Learning-Next-Js)
-   - **Deployed Link:** [E-Learning  Deployed Link](https://e-learning-next-js.vercel.app/)
+Software:
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
+[![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge)](https://inkscape.org)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
+![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
-4. **Personal Portfolio**
-   - **Description:** Personal Portfolio showcasing projects and skills.
-   - **Tech Stack:** React JS, Tailwind CSS, JavaScript.
-   - **Deployment:** Deployed on vercel .
-   - **Repository:** [Personal Portfolio Repository](https://github.com/saekumar/Portfolio)
-   - **Deployed Link:** [Personal Portfolio Deployed Link](https://saikumar-portfolio.vercel.app)
+_Favorite programming language: Rust :crab:._  
+_Learning: WebGPU._  
+_Fun tidbits: My side interests are graphics design :paintbrush:, breakdancing
+:man_dancing:, and skateboarding :skateboard:._
 
-<!-- Internship Experience -->
-## 🚀 Internship Experience
-1. **AICTE Virtual Internship**
-   - **Duration:** [Dec 2022] - [Feb 2023]
-   - **Description:** Gained insights about Juniper Networks Networking.
+---
 
+<a href="mailto:duongnguyen18@siggraph.org">
+  <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+</a>
 
+<a href="https://www.linkedin.com/in/zach-nguyen">
+  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
 
+<a href="https://twitter.com/zach_duong">
+  <img height="32" align="left" alt="X" src="img/icons/x.png" />
+</a>
 
+<a href="https://paypal.me/dnguy38">
+  <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
+</a>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saekumar&show_icons=true&theme=radical)
+<a href="https://www.buymeacoffee.com/cszach">
+  <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
+</a>
 
-<!-- Top Languages -->
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saekumar&layout=compact&theme=radical)
+<a href="https://liberapay.com/cszach">
+  <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
+</a>
 
-<!-- Connect with Me -->
-## 🌟 Connect with Me
-- <a href="https://www.linkedin.com/in/saikumar-puppala-009019234//" target="_blank">LinkedIn</a>
-- <a href="https://t.me/+807414973" target="_blank">Telegram</a>
-- <a href="https://www.instagram.com/saii___kumar/" target="_blank">Instagram</a>
-
-
-<!-- Footer -->
-## 📝 Footer
-Thanks for stopping by! Don't forget to ⭐️ [Star](https://github.com/saekumar) my repositories if you found them useful!
+<a href="https://dribbble.com/cszach">
+  <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
+</a>
