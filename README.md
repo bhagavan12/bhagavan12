@@ -1,4 +1,4 @@
-(https://github.com/bhagavan12/bhagavan12/assets/92876606/b64114b4-66b6-4076-b2f1-e41c133aa2d1)![logo](logo.png)
+![image](https://github.com/bhagavan12/bhagavan12/assets/92876606/b64114b4-66b6-4076-b2f1-e41c133aa2d1)![logo](logo.png)
 
 
 <h1 align="center">Hi 👋, I'm Sai Bhagavan</h1>
